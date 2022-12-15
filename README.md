@@ -9,7 +9,9 @@
     <a href="https://www.linkedin.com/in/junyoung-k-b0b0a4207/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junyoung-k-b0b0a4207/"/></a>&nbsp
 </p>
 
-
+<!-- <h1 align="center">
+    Hi 👋, I'm  <a href="https://www.naver.com">JunYoung</a>
+</h1> -->
 
 <!--
 **lgkimjy/lgkimjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
