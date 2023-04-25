@@ -27,20 +27,6 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: false
           plugin_languages_limit: 10
-
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          config_display: columns
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
           
       - name: 🦑 Isocalendar
         if: ${{ success() || failure() }}
@@ -49,8 +35,10 @@ jobs:
           filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_display: columns
-          config_order: isocalendar
+          config_display: large # columns  # large
+          config_timezone: Asia/Seoul
+          config_order: isocalendar 
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # full-year
