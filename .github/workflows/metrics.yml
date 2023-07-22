@@ -22,7 +22,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, Jupyter Notebook
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, Jupyter Notebook, julia
           plugin_languages_skipped: lgkimjy/mujoco_amdl, 
           plugin_languages_details: percentage
           plugin_languages_sections: most-used, recently-used
