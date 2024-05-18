@@ -127,15 +127,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 667kb of code in 280 edited files across 69 commits over last 14 days</small>
+                <small>estimation from 609kb of code in 199 edited files across 30 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.91007041656064" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="409.91007041656064" y="0" width="45.90872241546714" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.8187928320278" y="0" width="4.181207167972248" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.8519241597424" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.8519241597424" y="0" width="16.956707063584364" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.80863122332676" y="0" width="4.191368776673279" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -147,7 +147,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>89.11%</div>
+                                <div>95.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -171,7 +171,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>9.98%</div>
+                                <div>3.69%</div>
                             </small>
                         </div>
                     </section>
