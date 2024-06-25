@@ -7,6 +7,7 @@
     <a href="mailto:lgkimjy@hanyang.ac.kr"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:lgkimjy@hanyang.ac.kr"/></a>&nbsp
     <a href="https://robotsociety.tistory.com"><img src="https://img.shields.io/badge/Blog-333?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp
     <a href="https://www.linkedin.com/in/junyoung-k-b0b0a4207/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junyoung-k-b0b0a4207/"/></a>&nbsp
+    <a href="https://www.youtube.com/@junyoungkim_robotics/"><img src="https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/junyoung-k-b0b0a4207/"/></a>&nbsp
 </p>
 
 <!-- <h1 align="center">
